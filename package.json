@@ -1,0 +1,23 @@
+{
+  "name": "react-native-flexlayouthepler",
+  "version": "1.0.0",
+  "description": "a util to help you layout quickly , but can't instead of flex layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MBWu/react-native-flexlayouthelper.git"
+  },
+  "keywords": [
+    "react-native",
+    "layout",
+    "util"
+  ],
+  "author": "milkbrother",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
