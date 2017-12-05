@@ -1,6 +1,6 @@
 {
   "name": "react-native-flexlayouthepler",
-  "version": "1.0.0",
+  "version": "0.0.0-beta",
   "description": "a util to help you layout quickly , but can't instead of flex layout",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,8 @@
   ],
   "author": "milkbrother",
   "license": "MIT",
-  "dependencies": {
-    "prop-types": "^15.6.0"
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
   }
 }
